@@ -69,6 +69,7 @@ The project contains **five main business questions** , solved across **three to
   Risk Weighting 5 has the highest average loan (about $9.68 lakh) and average credit-card balance (about $5,259).
 
   The SQL file also creates a `customer_ranking` view, using `RANK()` to rank clients by bank deposits within each banking relationship.
+<img width="1042" height="586" alt="2  Risk Weighting" src="https://github.com/user-attachments/assets/9c35fc3b-1c77-45f0-abb2-2691d07dbd74" />
 
 **Question 4 — Power BI**
 
@@ -78,6 +79,7 @@ The project contains **five main business questions** , solved across **three to
 * Reported finding:
 
   **Private Bank** is the leading relationship type, with **1,323 clients**, approximately **$90.90** crore in deposits, and the highest reported total business lending and loans.
+<img width="1045" height="589" alt="3  Banking Relationship" src="https://github.com/user-attachments/assets/4d151d28-f3ae-4779-ae6b-b5bae72e03b3" />
 
 **Question 5 — Power BI**
 
