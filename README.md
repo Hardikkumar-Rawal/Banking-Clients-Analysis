@@ -1,3 +1,4 @@
+<img width="1044" height="583" alt="1  Loyalty and Fee Structure" src="https://github.com/user-attachments/assets/f819cb65-68a5-4216-9680-b3b0005d240d" />
 # Banking Clients Data Analytics
 
 ## 1\. Project Overview
@@ -55,6 +56,7 @@ The project contains **five main business questions** , solved across **three to
 * The `segment_value` SQL view groups clients by `Loyalty_Classification` and `Fee_Structure`, then calculates client count, average estimated income, and total bank deposits.
 * Reported finding:
 **Jade + High** Fee is the strongest segment, with **657 clients**, approximately **$47.77** crore in deposits, and **$50.44** crore in net worth.
+<img width="1044" height="583" alt="1  Loyalty and Fee Structure" src="https://github.com/user-attachments/assets/1bf47dd5-a74a-4ec3-96e6-3a1a226e1d97" />
 
 **Question 3 — SQL**
 
