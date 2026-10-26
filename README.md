@@ -1,4 +1,3 @@
-<img width="1044" height="583" alt="1  Loyalty and Fee Structure" src="https://github.com/user-attachments/assets/f819cb65-68a5-4216-9680-b3b0005d240d" />
 # Banking Clients Data Analytics
 
 ## 1\. Project Overview
